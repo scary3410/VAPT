@@ -87,3 +87,5 @@ The `ANY` query asks the DNS server to return **all types of records** it has fo
 - **TXT**: Misc text records (e.g. SPF, verification keys)
     
 - **SOA**: Start of Authority (authoritative info about the domain)
+
+

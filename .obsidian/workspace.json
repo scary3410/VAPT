@@ -50,35 +50,21 @@
             }
           },
           {
-            "id": "4e2b25213495a95c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Penetration Testing/Privilege Escalation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Privilege Escalation"
-            }
-          },
-          {
             "id": "1e39c55775ef7148",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Penetration Testing/Footprinting/Domain Information.md",
+                "file": "Penetration Testing/Footprinting/Host Based Enumeration/FTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domain Information"
+              "title": "FTP"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Penetration Testing/Footprinting/Domain Information.md",
+                "file": "Penetration Testing/Footprinting/Host Based Enumeration/FTP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Domain Information"
+              "title": "Outline of FTP"
             }
           }
         ],
@@ -217,6 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -225,44 +212,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adb4b0991a4deed6",
+  "active": "1e39c55775ef7148",
   "lastOpenFiles": [
-    "Penetration Testing/Footprinting/Enumeration Methodology.md",
+    "Penetration Testing/Footprinting/Host based Enumeration.md",
+    "Penetration Testing/Footprinting/Host Based Enumeration/FTP.md",
+    "Penetration Testing/Footprinting/Host Based Enumeration",
+    "Penetration Testing/Footprinting/Cloud resources.md",
+    "Pasted image 20250823093051.png",
+    "Pasted image 20250823093036.png",
     "Penetration Testing/Footprinting/Domain Information.md",
-    "Penetration Testing/Process/Procedure.md",
-    "Penetration Testing/Network Enumeration with Nmap/Performance.md",
-    "Pasted image 20250705182739.png",
-    "Pasted image 20250705182712.png",
-    "Penetration Testing/Network Enumeration with Nmap/Intro to NMAP.md",
-    "Penetration Testing/Footprinting",
-    "Penetration Testing/Untitled.md",
-    "Penetration Testing/Network Enumeration with Nmap/Host Discovery.md",
-    "Penetration Testing/Network Enumeration with Nmap/Host and port scanning.md",
-    "Penetration Testing/Network Enumeration with Nmap/Firewall and IDS_IPS Evasion.md",
-    "Penetration Testing/Network Enumeration with Nmap/Nmap Scripting Engine.md",
+    "Penetration Testing/Footprinting/Enumeration Methodology.md",
+    "Penetration Testing/Process/Staying Organised.md",
+    "Penetration Testing/Process/Transferring Files.md",
+    "Penetration Testing/Process/Analysis.md",
+    "Penetration Testing/Network Enumeration with Nmap/Subnet.md",
     "Penetration Testing/Network Enumeration with Nmap/Saving the results.md",
     "Penetration Testing/Network Enumeration with Nmap/Notes.md",
-    "Penetration Testing/Network Enumeration with Nmap/Subnet.md",
+    "Penetration Testing/Network Enumeration with Nmap/Intro to NMAP.md",
+    "Penetration Testing/Network Enumeration with Nmap/Host Discovery.md",
+    "Penetration Testing/Process/Service Scanning.md",
+    "Penetration Testing/Network Enumeration with Nmap/Performance.md",
+    "Penetration Testing/Network Enumeration with Nmap/Nmap Scripting Engine.md",
+    "Penetration Testing/Network Enumeration with Nmap/Host and port scanning.md",
+    "Penetration Testing/Network Enumeration with Nmap/Firewall and IDS_IPS Evasion.md",
+    "Penetration Testing/Getting started/Types of Shell.md",
+    "Penetration Testing/Getting started/Pen-testing Basics.md",
     "Penetration Testing/Getting started/Basic Tools.md",
+    "Pasted image 20250705182712.png",
+    "Penetration Testing/Getting started/Getting_Started_Module_Cheat_Sheet.pdf",
+    "Penetration Testing/Process/Procedure.md",
+    "Pasted image 20250705182739.png",
+    "Penetration Testing/Footprinting",
+    "Penetration Testing/Untitled.md",
     "Penetration Testing/Network Enumeration with Nmap/Untitled",
     "Penetration Testing/Process/Pasted image 20250326173525.png",
     "Penetration Testing/Network Enumeration with Nmap",
-    "Penetration Testing/Process/Staying Organised.md",
     "WAY NEXT.md",
-    "Penetration Testing/Getting started/Types of Shell.md",
-    "Penetration Testing/Process/Transferring Files.md",
-    "Penetration Testing/Process/Service Scanning.md",
     "Penetration Testing/Process/Privilege Escalation.md",
     "Penetration Testing/Process/Post-Exploitation.md",
-    "Penetration Testing/Getting started/Pen-testing Basics.md",
-    "Penetration Testing/Process/Info-Sec.md",
-    "Penetration Testing/Getting started/Getting_Started_Module_Cheat_Sheet.pdf",
-    "Penetration Testing/Process/Enumeration.md",
-    "Penetration Testing/Process/Analysis.md",
     "Penetration Testing/Process",
     "Penetration Testing/Getting started",
     "Penetration Testing/Getting_Started_Module_Cheat_Sheet_2.pdf",
-    "Welcome.md",
     "Penetration Testing"
   ]
 }
