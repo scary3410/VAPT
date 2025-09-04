@@ -136,3 +136,9 @@ FTP
 0xscary@htb[/htb]$ sudo nmap -sV -p21 -sC -A 10.129.14.136
 ```
 
+It looks slightly different if the FTP server runs with TLS/SSL encryption. Because then we need a client that can handle TLS/SSL. For this, we can use the client `openssl` and communicate with the FTP server. The good thing about using `openssl` is that we can see the SSL certificate, which can also be helpful.
+
+```shell-session
+0xscary@htb[/htb]$ openssl s_client -connect 10.129.14.136:21 -starttls ftp
+```
+

@@ -79,7 +79,7 @@ There are multiple methods to do this. For our purposes, we will use the `pytho
   Types of Shells
 
 ```shell-session
-0xscary@htb[/htb]$ python -c 'import pty; pty.spawn("/bin/bash")'
+0xscary@htb[/htb]$ python3 -c 'import pty; pty.spawn("/bin/bash")'
 ```
 
 After we run this command, we will hit `ctrl+z` to background our shell and get back on our local terminal, and input the following `stty` command:

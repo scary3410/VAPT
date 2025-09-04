@@ -1,4 +1,4 @@
-- [ ]  Root a Retired Easy Box  
+- [+ ]  Root a Retired Easy Box  
     
 - [ ]  Root a Retired Medium Box  
     
